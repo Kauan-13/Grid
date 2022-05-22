@@ -1,0 +1,52 @@
+[class*="col"]{
+    border: solid 1px black;
+    height: 33.3vh;
+}
+#img1{
+    background-image: url("img/hk.jpg");
+    background-size: 360px 270px;
+}
+#img2{
+    background-image: url("img/false.png");
+    background-size: 360px 270px;
+}
+#img3{
+    background-image: url("img/hornet.jpg");
+    background-size: 360px 270px;
+}
+#img4{
+    background-image: url("img/lords.jpg");
+    background-size: 360px 270px;
+}
+#img5{
+    background-image: url("img/almas.jpg");
+    background-size: 360px 270px;
+}
+#img6{
+    background-image: url("img/traira.png");
+    background-size: 360px 270px;
+}
+#img7{
+    background-image: url("img/marmuuu.png");
+    background-size: 360px 270px;
+}
+#img8{
+    background-image: url("img/musgoso.jpg");
+    background-size: 360px 270px;
+}
+#img9{
+    background-image: url("img/zotão.jpg");
+    background-size: 360px 270px;
+}
+#img10{
+    background-image: url("img/grimm.jpg");
+    background-size: 360px 270px;
+}
+#img11{
+    background-image: url("img/emo.png");
+    background-size: 360px 270px;
+}
+#img12{
+    background-image: url("img/radiação.jpg");
+    background-size: 360px 270px;
+}
